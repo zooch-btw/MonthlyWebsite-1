@@ -1,3 +1,26 @@
 .lisp {
     list-style-type: none;
 }
+.noir1 {
+    background-color: black;
+    color: white;
+}
+.noir2 {
+    background-color: grey;
+    color: black;
+}
+.frosty1:hover {
+    box-shadow: 20px 0px 30px 20px  midnightblue;
+}
+.frosty2:hover {
+    box-shadow: 20px 0px 30px 20px  maroon;
+}
+.frosty3:hover {
+    box-shadow: 20px 0px 30px 20px  goldenrod;
+}
+.frosty4:hover {
+    box-shadow: 20px 0px 30px 20px  darkolivegreen;
+}
+.frosty5:hover {
+    box-shadow: 20px 0px 30px 20px  plum;
+}
