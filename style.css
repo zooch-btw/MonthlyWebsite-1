@@ -37,7 +37,7 @@
 .font3 {
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: weight;
     font-style: normal;
 }
 .font4 {
@@ -48,6 +48,6 @@
 .font5 {
     font-family: "Roboto Slab", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: weight;
     font-style: normal;
 }
