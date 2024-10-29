@@ -24,3 +24,30 @@
 .frosty5:hover {
     box-shadow: 20px 0px 30px 20px  plum;
 }
+.font1 {
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.font2 {
+    font-family: "Cardo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.font3 {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.font4 {
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.font5 {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
